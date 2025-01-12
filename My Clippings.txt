@@ -1,0 +1,280 @@
+﻿$100M Offers: How To Make Offers So Good People Feel Stupid Saying No (Acquisition.com $100M Series) (Hormozi, Alex)
+- Your Highlight on page 11 | location 133-136 | Added on Monday, 29 July 2024 17:53:42
+
+and conventional wisdom is usually right. Given a 10 percent chance of a 100 times payoff, you should take that bet every time. But you're still going to be wrong nine times out of ten . . . We all know that if you swing for the fences, you're going to strike out a lot, but you're also going to hit some home runs. The difference between baseball and business, however,
+==========
+Atomic Habits: Tiny Changes, Remarkable Results: An Easy & Proven Way to Build Good Habits & Break Bad Ones (James Clear)
+- Your Highlight at location 379-379 | Added on Friday, 2 August 2024 00:41:03
+
+You do not rise to the level of your goals. You fall to the level of your systems.
+==========
+Atomic Habits: Tiny Changes, Remarkable Results: An Easy & Proven Way to Build Good Habits & Break Bad Ones (James Clear)
+- Your Highlight at location 564-564 | Added on Monday, 12 August 2024 23:56:54
+
+There are three levels of change: outcome change, process change, and identity change.
+==========
+Atomic Habits: Tiny Changes, Remarkable Results: An Easy & Proven Way to Build Good Habits & Break Bad Ones (James Clear)
+- Your Highlight at location 565-566 | Added on Monday, 12 August 2024 23:56:59
+
+The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.
+==========
+Atomic Habits: Tiny Changes, Remarkable Results: An Easy & Proven Way to Build Good Habits & Break Bad Ones (James Clear)
+- Your Highlight at location 566-567 | Added on Monday, 12 August 2024 23:57:05
+
+Your identity emerges out of your habits. Every action is a vote for the type of person you wish to become.
+==========
+Atomic Habits: Tiny Changes, Remarkable Results: An Easy & Proven Way to Build Good Habits & Break Bad Ones (James Clear)
+- Your Highlight at location 567-568 | Added on Monday, 12 August 2024 23:57:10
+
+Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.
+==========
+Atomic Habits: Tiny Changes, Remarkable Results: An Easy & Proven Way to Build Good Habits & Break Bad Ones (James Clear)
+- Your Highlight at location 569-570 | Added on Monday, 12 August 2024 23:57:14
+
+The real reason habits matter is not because they can get you better results (although they can do that), but because they can change your beliefs about yourself.
+==========
+Options, Futures, and Other Derivatives, Global Edition (John Hull)
+- Your Highlight on page 25 | location 763-764 | Added on Saturday, 17 August 2024 17:01:29
+
+Traditionally derivatives exchanges have used what is known as the open outcry system.  This involves traders physically meeting on the floor of the exchange, shouting, and  using a complicated
+==========
+Options, Futures, and Other Derivatives, Global Edition (John Hull)
+- Your Highlight on page 25 | location 763-764 | Added on Saturday, 17 August 2024 17:08:27
+
+Traditionally derivatives exchanges have used what is known as the open outcry system.  This involves traders physically meeting on the floor of the exchange, shouting, and  using a complicated
+==========
+Introductory Econometrics - A Modern Approach (Jeffrey M. Wooldridge)
+- Your Highlight on page 2 | location 481-483 | Added on Sunday, 18 August 2024 00:36:52
+
+Nonexperimental data are not accumulated through controlled experiments on individuals, firms,  or segments of the economy. (Nonexperimental data are sometimes called observational data, or  retrospective data, to emphasize the fact that the researcher is a passive collector of the data.) 
+==========
+Introductory Econometrics - A Modern Approach (Jeffrey M. Wooldridge)
+- Your Highlight on page 2 | location 483-486 | Added on Sunday, 18 August 2024 00:37:22
+
+Experimental data are often collected in laboratory environments in the natural sciences, but  they are more difficult to obtain in the social sciences. Although some social experiments can be  devised, it is often impossible, prohibitively expensive, or morally repugnant to conduct the kinds  of controlled experiments that would be needed to address economic issues.
+==========
+Introductory Econometrics - A Modern Approach (Jeffrey M. Wooldridge)
+- Your Highlight on page 9 | location 668-672 | Added on Sunday, 18 August 2024 01:08:11
+
+A panel data (or longitudinal data) set consists of a time series for each cross-sectional member  in the data set. As an example, suppose we have wage, education, and employment history for a set  of individuals followed over a 10-year period. Or we might collect information, such as investment  and financial data, about the same set of firms over a five-year time period. Panel data can also be  collected on geographical units. For example, we can collect data for the same set of counties in the  United States on immigration flows, tax rates, wage rates, government expenditures, and so on, for  the years 1980, 1985, and 1990. 
+==========
+Introductory Econometrics - A Modern Approach (Jeffrey M. Wooldridge)
+- Your Highlight on page 11 | location 732-735 | Added on Tuesday, 20 August 2024 16:58:21
+
+The notion of ceteris paribus also can be described through counterfactual reasoning, which  has become an organizing theme in analyzing various interventions, such as policy changes. The idea  is to imagine an economic unit, such as an individual or a firm, in two or more different states of the  world. For example, consider studying the impact of a job training program on workers’ earnings.  For each
+==========
+Introductory Econometrics - A Modern Approach (Jeffrey M. Wooldridge)
+- Your Highlight on page 11 | location 732-734 | Added on Tuesday, 20 August 2024 16:58:26
+
+The notion of ceteris paribus also can be described through counterfactual reasoning, which  has become an organizing theme in analyzing various interventions, such as policy changes. The idea  is to imagine an economic unit, such as an individual or a firm, in two or more different states of the  world.
+==========
+Introductory Econometrics - A Modern Approach (Jeffrey M. Wooldridge)
+- Your Highlight on page 11 | location 732-738 | Added on Tuesday, 20 August 2024 16:58:44
+
+The notion of ceteris paribus also can be described through counterfactual reasoning, which  has become an organizing theme in analyzing various interventions, such as policy changes. The idea  is to imagine an economic unit, such as an individual or a firm, in two or more different states of the  world. For example, consider studying the impact of a job training program on workers’ earnings.  For each worker in the relevant population, we can imagine what his or her subsequent earnings  would be under two states of the world: having participated in the job training program and having  not participated. By considering these counterfactual outcomes (also called potential outcomes),  we easily “hold other factors fixed” because the counterfactual thought experiment applies to each  individual separately.
+==========
+Introductory Econometrics - A Modern Approach (Jeffrey M. Wooldridge)
+- Your Highlight on page 14 | location 841-842 | Added on Tuesday, 20 August 2024 17:11:45
+
+The expectations hypothesis from financial economics states that, given all information available  to investors at the time of investing, the expected return on any two investments is the same.
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Highlight on page 2 | location 161-163 | Added on Friday, 23 August 2024 16:07:25
+
+Notice that the irregular component, while lacking a well-defined pattern, is somewhat predictable. If you examine the figure closely, you will see that the positive and  negative values occur in runs; the occurrence of a large value in any period tends
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Highlight on page 3 | location 174-175 | Added on Friday, 23 August 2024 16:13:26
+
+Each of these three equations
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Highlight on page 2 | location 161-163 | Added on Friday, 23 August 2024 16:15:19
+
+Notice that the irregular component, while lacking a well-defined pattern, is somewhat predictable. If you examine the figure closely, you will see that the positive and  negative values occur in runs; the occurrence of a large value in any period tends
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Highlight on page 3 | location 174-177 | Added on Friday, 23 August 2024 16:16:14
+
+Each of these three equations is a type of difference equation. In its most general form, a difference equation expresses the value of a variable as a function of its  own lagged values, time, and other variables. The trend and seasonal terms are both  functions of time and the irregular term is a function of its own lagged value and of  the stochastic variable 𝜀t.
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Note on page 3 | location 177 | Added on Friday, 23 August 2024 16:16:30
+
+sh
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Note on page 3 | location 177 | Added on Friday, 23 August 2024 16:16:34
+
+shud
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Note on page 3 | location 177 | Added on Friday, 23 August 2024 16:16:40
+
+shubh
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Note on page 3 | location 177 | Added on Friday, 23 August 2024 16:16:42
+
+shubh2004
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Note on page 3 | location 177 | Added on Friday, 23 August 2024 16:16:44
+
+shubh200
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Highlight on page 3 | location 188-189 | Added on Friday, 23 August 2024 16:30:54
+
+The Random Walk Hypothesis: In its simplest form, the random walk  model suggests that day-to-day changes in the price of a stock should have 
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Highlight on page 3 | location 188-189 | Added on Friday, 23 August 2024 16:31:10
+
+The Random Walk Hypothesis: In its simplest form, the random walk  model suggests that day-to-day changes in the price of a stock should have 
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Highlight on page 4 | location 189-190 | Added on Friday, 23 August 2024 16:31:19
+
+mean value of zero. After
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Highlight on page 4 | location 202-203 | Added on Friday, 23 August 2024 16:37:02
+
+predetermined or lagged endogenous variables.
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Highlight on page 5 | location 209-209 | Added on Friday, 23 August 2024 16:39:00
+
+structural equation
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Highlight on page 5 | location 210-210 | Added on Friday, 23 August 2024 16:39:09
+
+reduced-form equation
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Highlight on page 8 | location 273-276 | Added on Friday, 23 August 2024 17:04:33
+
+The nth difference (Δn) is defined analogously. At this point, we risk taking the  theory of difference equations too far. As you will see, the need to use second differences rarely arises in time-series analysis. It is safe to say that third- and higher order  differences are never used in applied work. 
+==========
+Atomic Habits: Tiny Changes, Remarkable Results: An Easy & Proven Way to Build Good Habits & Break Bad Ones (James Clear)
+- Your Highlight at location 735-745 | Added on Monday, 26 August 2024 23:53:39
+
+The 1st law (Cue): Make it obvious. The 2nd law (Craving): Make it attractive. The 3rd law (Response): Make it easy. The 4th law (Reward): Make it satisfying. We can invert these laws to learn how to break a bad habit. How to Break a Bad Habit Inversion of the 1st law (Cue): Make it invisible. Inversion of the 2nd law (Craving): Make it unattractive. Inversion of the 3rd law (Response): Make it difficult. Inversion of the 4th law (Reward): Make it unsatisfying.
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Bookmark on page 8 | location 271 | Added on Saturday, 7 September 2024 11:39:53
+
+
+==========
+[Wiley Series in Probability and Statistics] Walter Enders - Applied Econometric Time Series (2014, Wiley) - libgen.li (1) (Walter Enders)
+- Your Bookmark on page 10 | location 312 | Added on Saturday, 7 September 2024 11:40:22
+
+
+==========
+A Primer for the Mathematics of Financial Engineering (Dan Stefanica)
+- Your Bookmark on page 29 | location 398 | Added on Saturday, 7 September 2024 11:48:51
+
+
+==========
+Options, Futures, and Other Derivatives, Global Edition (John Hull)
+- Your Highlight on page 55 | location 1418-1418 | Added on Saturday, 14 September 2024 16:34:01
+
+into a master  agreement covering all their trades.3 This agreement usually includes an annex,
+==========
+Quantitative trading (Ernest P. Chan)
+- Your Highlight on page 25 | location 557-559 | Added on Thursday, 10 October 2024 17:09:27
+
+executed  at the exchange, due to delays on the internet or various softwarerelated issues. This delay can cause a slippage, the difference 
+==========
+Quantitative trading (Ernest P. Chan)
+- Your Highlight on page 25 | location 554-555 | Added on Thursday, 10 October 2024 17:12:01
+
+transaction  is done. (Sometimes just displaying a bid to buy a large number of  shares for a stock can move the prices higher without your
+==========
+Quantitative trading (Ernest P. Chan)
+- Your Highlight on page 28 | location 607-608 | Added on Wednesday, 16 October 2024 15:11:21
+
+By having  so many parameters, you are probably fitting the model to historical  accidents in the past that will not repeat themselves in the future.  Actually, this so-called data-snooping bias
+==========
+Power Ascension Bible Volume 1 to 4 (Unknown)
+- Your Highlight at location 64-65 | Added on Tuesday, 22 October 2024 00:26:16
+
+The ability to stay calm and composed in the face of someone trying to undermine you gives your reputation a powerful aura. Those observing will remember you as someone who does not get fazed.
+==========
+Power Ascension Bible Volume 1 to 4 (Unknown)
+- Your Highlight at location 70-71 | Added on Tuesday, 22 October 2024 00:27:18
+
+You cannot afford to break down in front of those you lead. The whole point of creating a reputation is to emanate superiority.
+==========
+Power Ascension Bible Volume 1 to 4 (Unknown)
+- Your Highlight at location 101-101 | Added on Tuesday, 22 October 2024 00:40:54
+
+Speed separates you from others as the winner.
+==========
+Power Ascension Bible Volume 1 to 4 (Unknown)
+- Your Highlight at location 102-103 | Added on Tuesday, 22 October 2024 00:40:59
+
+Never let your specific knowledge self-automate.
+==========
+Power Ascension Bible Volume 1 to 4 (Unknown)
+- Your Highlight at location 106-107 | Added on Tuesday, 22 October 2024 00:41:38
+
+Competence is leveraged when you provide value that you happen to generate with ease in exchange for value you do not generate.
+==========
+Power Ascension Bible Volume 1 to 4 (Unknown)
+- Your Highlight at location 109-109 | Added on Tuesday, 22 October 2024 00:41:44
+
+Anything you find that relies on your competence is subject to unfair advantage and manipulation.
+==========
+Power Ascension Bible Volume 1 to 4 (Unknown)
+- Your Highlight at location 112-128 | Added on Tuesday, 22 October 2024 00:42:55
+
+There’s a saying written by George Orwell; he who controls the flow of information controls the world.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant.indd (The Almanack of Naval Ravikant A Guide to Wealth;Happiness (2020))
+- Your Highlight at location 185-185 | Added on Thursday, 28 November 2024 23:31:43
+
+Making money is not a thing you do—it’s a skill you learn.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant.indd (The Almanack of Naval Ravikant A Guide to Wealth;Happiness (2020))
+- Your Highlight at location 189-190 | Added on Thursday, 28 November 2024 23:31:49
+
+Getting rich is about knowing what to do, who to do it with, and when to do it.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant.indd (The Almanack of Naval Ravikant A Guide to Wealth;Happiness (2020))
+- Your Highlight at location 191-192 | Added on Thursday, 28 November 2024 23:33:07
+
+If you don’t know yet what you should work on, the most important thing is to figure it out. You should not grind at a lot of hard work until you figure out what you should be working on.
+==========
+The Almanack of Naval Ravikant: A Guide to Wealth and Happiness (Jorgenson, Eric)
+- Your Highlight on page 30 | location 202-203 | Added on Thursday, 28 November 2024 23:35:32
+
+It’s not really about hard work. You can work in a restaurant eighty hours a week, and you’re not going to get rich. Getting rich is about knowing what to do, who to do it with, and when to do it.
+==========
+The Almanack of Naval Ravikant: A Guide to Wealth and Happiness (Jorgenson, Eric)
+- Your Highlight on page 30 | location 204-206 | Added on Thursday, 28 November 2024 23:35:46
+
+If you don’t know yet what you should work on, the most important thing is to figure it out. You should not grind at a lot of hard work until you figure out what you should be working on.
+==========
+The Almanack of Naval Ravikant: A Guide to Wealth and Happiness (Jorgenson, Eric)
+- Your Highlight on page 36 | location 260-260 | Added on Thursday, 28 November 2024 23:45:31
+
+Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.
+==========
+Power Ascension Bible Volume 1 to 4 (Unknown)
+- Your Highlight at location 187-188 | Added on Friday, 13 December 2024 00:30:47
+
+The Firm by Duff McDonald
+==========
+Power Ascension Bible Volume 1 to 4 (Unknown)
+- Your Highlight at location 187-188 | Added on Friday, 13 December 2024 00:31:06
+
+I strongly suggest you read The Firm by Duff McDonald , an excellent book that delves into the world of Mckinsey Consulting.
+==========
+Whats_Our_Problem_A_Self-Help_Book_for_Societies_Tim_Urban (Tim Urban)
+- Your Highlight on Location 51-51 | Added on Tuesday, 7 January 2025 14:54:23
+
+When we really zoom out,
+==========
